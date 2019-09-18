@@ -1,0 +1,9 @@
+.navbar-brand{
+    color: rgb(243, 165, 63) !important;
+    font-weight: bold;
+    font-size: 2vw;
+    margin-left: 2vw;
+}
+nav{
+    line-height: 7vw;
+}

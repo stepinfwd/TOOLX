@@ -1,0 +1,18 @@
+.card-style{
+    width: 25vw;
+    height: 10vw;
+    background-color: rgb(250,250,250)
+    
+}
+.timer-img{
+    width: 2vw !important;
+    height: 2vw !important;
+    margin-left: 6vw
+}
+.card-align{
+    display: flex;
+    flex-direction: row;
+}
+.time{
+    margin: 1vw;
+}
